@@ -13,3 +13,72 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Built application files
+*.apk
+*.ap_
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Proguard files
+proguard-project.txt
+proguard-rules.txt
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# Android Studio Navigation Editor
+.navigation/
+
+# Android Studio captures folder for inspections snapshots
+captures/
+
+# Android Studio External Annotations
+.externalNativeBuild/
+
+# Android Studio Generated Files Folder
+GeneratedFiles/
+
+# Android Studio Unit Test Output Directory
+test-results/
+
+# Emulator AVD files
+*.ini
+*.lock
+*.img
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Mac OS files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows files
+Desktop.ini
+Thumbs.db
