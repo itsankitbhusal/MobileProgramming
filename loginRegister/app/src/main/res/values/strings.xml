@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MobileProgramming</string>
+    <string name="user_name">Username</string>
+</resources>
+    <!--Develop and android application to input your name, address, gender and other
+    personal information. Pass and display this information in another activity
+
+
+    // constraint layout
+
+    app:layout_constraintTop_toTopOf
+    app:layout_constraintTop_toBottomOf
+    app:layout_constraintBottom_toBottomOf
+    app:layout_constraintBottom_toTopOf
+
+    app:layout_constraintStart_toStartOf
+    app:layout_constraintStart_toEndOf
+
+    app:layout_constraintEnd_toEndOf
+    app:layout_constraintEnd_toStartOf
+
+    -->
